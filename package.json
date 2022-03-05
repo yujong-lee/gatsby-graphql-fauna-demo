@@ -1,0 +1,11 @@
+{
+  "name": "gatsby-graphql-fauna-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jayden <yujonglee@g.skku.edu>",
+  "license": "MIT",
+  "private": "true",
+  "workspaces": [
+    "packages/*"
+  ]
+}
